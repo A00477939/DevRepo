@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is main
+          This is qa
         </a>
       </header>
     </div>
